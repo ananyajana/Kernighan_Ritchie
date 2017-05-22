@@ -1,4 +1,5 @@
-/* write a function atoi that converts a string 
+/* Author: Ananya Jana
+write a function atoi that converts a string 
 s to integer                                 */
 
 #include <stdio.h>

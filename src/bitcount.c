@@ -1,4 +1,5 @@
-/* write a function bitcount(x) to count the 
+/* Author: Ananya Jana
+write a function bitcount(x) to count the 
 no. of bits in a number                   */ 
 
 #include <stdio.h>

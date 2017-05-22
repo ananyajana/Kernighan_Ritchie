@@ -1,4 +1,5 @@
-/* write a program to implement a primitive calculator
+/* Author: Ananya Jana
+   write a program to implement a primitive calculator
    which reads one number per line, optionally preceded
    with a sign and adds them up, printing the running sum
    after each input                                     */

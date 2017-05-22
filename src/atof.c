@@ -1,4 +1,5 @@
-/* write a function atof that converts a
+/* Author: Ananya Jana
+write a function atof that converts a
 string s to integer                   */
 
 #include <stdio.h>

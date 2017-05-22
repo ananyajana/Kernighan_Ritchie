@@ -1,3 +1,4 @@
+/* Author: Ananya Jana */
 #include <ctype.h>
 
 double atof1(char s[])

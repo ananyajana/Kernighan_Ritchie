@@ -1,4 +1,5 @@
-/* write a program to find a number in 
+/* Author: Ananya Jana
+write a program to find a number in 
 a given sortedlist using binry search */
 
 #include <stdio.h>
