@@ -1,4 +1,5 @@
-/*write a program that reads a set of lines and 
+/* Author: Ananya Jana
+write a program that reads a set of lines and 
 prints the lines og length greater than 8    */
 
 #include <stdio.h>

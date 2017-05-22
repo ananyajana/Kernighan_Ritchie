@@ -1,4 +1,5 @@
-/* write a program that can count the occurrences
+/* Author: Ananya Jana
+write a program that can count the occurrences
 of each digit, white spaces and other character*/
 
 #include <stdio.h>

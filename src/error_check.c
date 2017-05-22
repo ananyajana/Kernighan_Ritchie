@@ -1,4 +1,5 @@
-/* write a C program to check for rudimentary syntax errors
+/* Author: Ananya Jana
+write a C program to check for rudimentary syntax errors
 like unmatched parentheses, brackets, braces, don' t forget 
 about  quotes both single and double escape sequences and 
 comments                                               */

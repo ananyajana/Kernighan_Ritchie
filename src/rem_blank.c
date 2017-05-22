@@ -1,4 +1,5 @@
-/* write a program to remove trailing blanks and tabs from
+/* Author: Ananya Jana
+write a program to remove trailing blanks and tabs from
 each line of input, and entirely delete blank lines      */
 
 #include <stdio.h>

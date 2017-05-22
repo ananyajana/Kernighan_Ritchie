@@ -1,4 +1,5 @@
-/* write a function escape(s, t) that converts characters like 
+/* Author: Ananya Jana
+write a function escape(s, t) that converts characters like 
 newline and tab int o visible escape sequences like \n and \t
 as it copies string t to s. use a switch. wite a function for 
 the other direction as well, converting escape sequences into

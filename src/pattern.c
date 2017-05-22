@@ -1,4 +1,5 @@
-/* write a program to print the only the input lines that contain a certain pattern */
+/* Author: Ananya Jana
+write a program to print the only the input lines that contain a certain pattern */
 
 #include <stdio.h>
 #define  MAXLINE  50

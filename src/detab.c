@@ -1,4 +1,5 @@
-/* write a program that replaces  tabs in input with 
+/* Author: Ananya Jana
+write a program that replaces  tabs in input with 
 proper number of blanks to space to the next tab stop.
 assume a fixed set of tabs, say every n columns.should 
 n be a variable or symbolic parameter               */

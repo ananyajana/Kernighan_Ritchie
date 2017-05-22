@@ -1,4 +1,5 @@
-/* write a function any(s1, s2), which returns the first 
+/* Author: Ananya Jana
+write a function any(s1, s2), which returns the first 
 location of the string s1 where any character of s2 occurs
 or -1 if s1 contains no character of s2                 */
 

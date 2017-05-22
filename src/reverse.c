@@ -1,4 +1,5 @@
-/* write a function reverse(s) that reverses the 
+/* Author: Ananya Jana
+write a function reverse(s) that reverses the 
 character string s. use it to write a program 
 that reverses its input line one at a time     */
 

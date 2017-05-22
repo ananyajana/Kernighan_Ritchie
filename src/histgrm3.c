@@ -1,4 +1,5 @@
-/* 1-13.write a program to print the horizontal histogram
+/* Author: Ananya Jana
+1-13.write a program to print the horizontal histogram
 of the lengths of words in its input.                  */
 #include <stdio.h>
 #define  MAXHIST 15    /* maximum length of a histogram*/

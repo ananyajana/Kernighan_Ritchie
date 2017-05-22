@@ -1,4 +1,5 @@
-/* write  a function itob(n, s, b) that converts the integer n into a base 
+/* Author: Ananya Jana
+write  a function itob(n, s, b) that converts the integer n into a base 
 b character representation in string s. in particular itob(n, s, 16)
 formats s as a hexadecimal integer in s                                 */
 

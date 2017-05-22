@@ -1,4 +1,5 @@
-/*write a program that reads a set of lines and prints the longest line */
+/* Author: Ananya Jana
+write a program that reads a set of lines and prints the longest line */
 
 #include <stdio.h>
 #define  MAXLINE  50

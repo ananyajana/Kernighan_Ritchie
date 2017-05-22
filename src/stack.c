@@ -1,3 +1,5 @@
+/* Author: Ananya Jana */
+
 #include <stdio.h>
 #define MAXVAL 100   /* maximum lengthe of val stack  */ 
 

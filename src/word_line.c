@@ -1,4 +1,5 @@
-/* 1-12. write a program that prints its input one word per line */
+/* Author: Ananya Jana
+1-12. write a program that prints its input one word per line */
 
 #include <stdio.h>
 #define  OUT    0

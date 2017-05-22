@@ -1,4 +1,5 @@
-s/* 1 - 10. write a program to copy its input to output, replacing each tab by \t, 
+/* Author: Ananya Jana
+1 - 10. write a program to copy its input to output, replacing each tab by \t, 
 each backspace by \b and each backslash by \\                                 */
 
 #include <stdio.h>

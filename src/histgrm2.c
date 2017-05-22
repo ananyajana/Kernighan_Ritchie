@@ -1,4 +1,5 @@
-/* 1-13.write a program to print the vertical
+/* Author: Ananya Jana
+1-13.write a program to print the vertical
 histogram of the lengths of words in its input.        */
 #include <stdio.h>
 #define  MAXLEN 10     /* maximum length of a word     */

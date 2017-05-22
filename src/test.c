@@ -1,4 +1,5 @@
-/* 1 - 2. experiment to find out what happens when printf's argument contains
+/* Author: Ananya Jana
+1 - 2. experiment to find out what happens when printf's argument contains
 \c where c is some character not listed above                            	
 
 1 - 6. verify that the expression getchar() != EOf is 0 or 1;

@@ -1,4 +1,5 @@
-/* write a program to implement shellsort 
+/* Author: Ananya Jana
+write a program to implement shellsort 
 : v[0], v[1], ...v[n - 1] in increasing order  */
 
 #include <stdio.h>

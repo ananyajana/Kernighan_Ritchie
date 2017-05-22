@@ -1,4 +1,5 @@
-/* 4.5 Add access to library functions like sin, exp ,pow. */
+/* 'Author: Ananya Jana
+4.5 Add access to library functions like sin, exp ,pow. */
   
 
 #include <stdio.h>

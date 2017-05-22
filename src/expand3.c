@@ -1,4 +1,5 @@
-/* write a function expand(s1, s2) that expands 
+/* Author: Ananya Jana
+write a function expand(s1, s2) that expands 
 shorthand notations like a-z in the string s1
 int o equivalent complete list abc...xyz in the
 string s2. allow for letters of either case and

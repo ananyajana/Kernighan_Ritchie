@@ -1,3 +1,4 @@
+/* Author: Ananya Jana */
 int getl(char s[], int lim)
 {
 	int c, i;

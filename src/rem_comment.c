@@ -1,4 +1,5 @@
-/* write a C program to remove all comments from a program.
+/* Author: Ananya Jana
+write a C program to remove all comments from a program.
 don't forget to handle quoted strings and character constants
 properly. c comments don't nest                           */
 

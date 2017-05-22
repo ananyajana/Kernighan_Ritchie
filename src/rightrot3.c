@@ -1,4 +1,5 @@
-/* write a function rightrot(x, n) that returns the 
+/* Author: Ananya Jana
+write a function rightrot(x, n) that returns the 
 value of integer x rotated to the right by n positions */
 
 #include <stdio.h>

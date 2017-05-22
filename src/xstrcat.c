@@ -1,4 +1,5 @@
-/* write a program to concatenate two strings */
+/* Author: Ananya Jana
+write a program to concatenate two strings */
 
 #include <stdio.h>
 

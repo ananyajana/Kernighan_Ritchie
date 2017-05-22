@@ -1,4 +1,5 @@
-/* write a program that replaces strings of blanks by
+/* Author: Ananya Jana
+write a program that replaces strings of blanks by
 minimum no. of tabs and blanks to achieve the same spacing
 use the same tab stops for detab when eithe a single blank
 or tab would suffice to reach a tab stop, which should be 

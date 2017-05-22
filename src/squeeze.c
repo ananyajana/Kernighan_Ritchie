@@ -1,4 +1,5 @@
-/* deletes all c from the string      */
+/* Author: Ananya Jana
+deletes all c from the string      */
 
 #include <stdio.h>
 

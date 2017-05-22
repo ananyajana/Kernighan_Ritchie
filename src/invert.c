@@ -1,4 +1,5 @@
-/* write a function invert(x, p, n) that returns x 
+/* Author: Ananya Jana
+write a function invert(x, p, n) that returns x 
 with the n bits that begin at position p inverted */
 
 #include <stdio.h>

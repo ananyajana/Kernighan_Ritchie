@@ -1,4 +1,5 @@
-/* write a function htoi(s), which converts a string of
+/* Author: Ananya Jana
+write a function htoi(s), which converts a string of
 hexadecimal digits( includeing an optional 0X or 0x )
 into its equivalent integer. the allowable digits are
 0 through 9, a through f and A through F.            */
